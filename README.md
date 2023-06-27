@@ -127,8 +127,6 @@ npm install
 npm run dev
 ```
 
-```
-```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -150,9 +148,3 @@ npm run dev
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- PROJECT LOGO -->
-<div align="center">
-<a href="https://quizi.vercel.app"><img src="./readme/header.webp" /></a>
-<br/>
-<br />
