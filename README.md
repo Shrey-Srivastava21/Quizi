@@ -103,7 +103,7 @@ List of the frameworks, libraries, and tools used to build the project.
 
 1. Clone or fork the repo
 ```sh
-git clone https://github.com/cosmoart/quiz-game
+git clone https://github.com/Shrey-Srivastava21/Online_Quiz_WebApp_MERN_ETHNUS
 ```
 2. Change directory to `source_code`
 ```sh
