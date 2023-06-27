@@ -1,13 +1,10 @@
 <div id="top"></div>
 
-
-
 <!-- PROJECT LOGO -->
 <div align="center">
 <a href="https://quizi.vercel.app"><img src="./readme/header.webp" /></a>
 <br/>
 <br />
-
 
   <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -25,8 +22,6 @@ Quizi is an online quiz application, we developed this for our MERN Ethnus Inter
 ## MERN ETHNUS Internship
 ![Untitled-design](https://github.com/Shrey-Srivastava21/Quiz_MERN/assets/84815622/6271f073-ede1-44b0-91e7-9f538fc70265)
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
 <summary>Table of contents</summary>
@@ -40,9 +35,7 @@ Quizi is an online quiz application, we developed this for our MERN Ethnus Inter
 - [Contact](#contact)
 </details>
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- SCREENSHOTS -->
 ## Screenshots
@@ -85,7 +78,6 @@ Quizi is an online quiz application, we developed this for our MERN Ethnus Inter
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 ### Built With
 
 List of the frameworks, libraries, and tools used to build the project.
@@ -105,7 +97,6 @@ List of the frameworks, libraries, and tools used to build the project.
 * [Vector Halftone Maker](https://halftone.xoihazard.com) For the halftone effect
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -127,10 +118,7 @@ npm install
 npm run dev
 ```
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
